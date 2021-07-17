@@ -1,0 +1,22 @@
+{
+  "name": "wf-discord",
+  "version": "3.0.1",
+  "description": "Для простотра проходов спецопераций и достижений за них в игре warface",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantin#6665",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "ldjson-body": "^1.0.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.6",
+    "timestampconvertjs": "^1.0.5"
+  },
+  "devDependencies": {}
+}

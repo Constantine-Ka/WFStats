@@ -1,0 +1,46 @@
+{
+	"prefix":"!",
+	"tokenSand":"NjU4Mzc5NDEyNDk2MTg3NDAw.XuDNBw.6pRJwNqCZ0hi0-y9qaaZH1pkHPg",
+	"tokenGeneral": "NjUzOTg0MzI2MzgzNDM1Nzc2.Xt_auQ.nuQWn0_mLgB4JCpGLFBd3Bw2eFw",
+	"Настройка соединения":"с базой данных",
+	"sqlhost": "sql7.freemysqlhosting.net",
+	"sqluser": "sql7359562",
+	"sqlpassword": "U9hvCMACSk",
+	"sqldatabase": "sql7359562",
+	"clanGuild":{
+		"740149914130055201": ["СаундТрек", 1 ],
+		"656828544898301992": ["СаундТрек", 1 ],
+		"658216341505048589": ["Эксиллиум", 1],
+		"710424247620730921": ["--БОЙЦЫ--ПВЕ--", 1],
+		"337582817632583680": ["...-МГС-...", 1],
+		"406544032978829312": ["__Г.е.й.м.е.р___", 1],
+		"523920516319543306": ["Жукжукжукжук", 1],
+		"507941621615034378": ["ПВЕшники_Теам", 1],
+		"300168368772612096": ["Опасные_Твари", 1],
+		"571589482990534656": ["Дед.Инсайд", 1],
+		"659773635153625118": ["-Провод_Спецух-",1],
+		"487983132117696520": ["Бладс", 1],
+		"557945022687870987": ["____.Барсы.____",1],
+		"689140019969130616": ["Некома", 1 ]
+		
+	},
+	"sqlConnection":{
+		"host": "db4free.net",
+		"user": "constantine68",
+		"password": "copybook1",
+		"database": "constantine_stat",
+		"waitForConnections": true,
+		"connectionLimit": 3,
+		"queueLimit": 0
+		
+	},
+	"sqlConnection1":{
+		"host": "localhost",
+		"user": "root",
+		"database": "constantine_stat",
+		"waitForConnections": true,
+		"connectionLimit": 3,
+		"queueLimit": 0
+		
+	}
+}

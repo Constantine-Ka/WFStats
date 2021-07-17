@@ -1,0 +1,9 @@
+version: '2'
+services:
+  app:
+    container_name: kanivec3_wf-stats
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: yarn start
+    restart: always
